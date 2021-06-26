@@ -1,13 +1,12 @@
-> Project developed in Next Level Week([NLW](nextlevelweek.com)) event by [RocketSeat](https://rocketseat.com.br/)
----
 # LetMeAsk
+
+> Project developed in Next Level Week([NLW](nextlevelweek.com)) event by [RocketSeat](https://rocketseat.com.br/)
 
 ![image](https://user-images.githubusercontent.com/70034234/123523976-bcc26c80-d69d-11eb-8ff5-d05cfe4ec983.png)
 
 LetMeAsk is an application developed for streamers that will to rank the questions in a chat and choose the most liked answers by the community.
 
----
-Technologies 
+## Technologies 
 
 The main technologies used to develop this applications were:
 
@@ -16,8 +15,7 @@ The main technologies used to develop this applications were:
 * SASS
 * Firebase 
 
----
-How To Use The Application
+## How To Use The Application
 
 > To use this application, first you can rather [click here](https://letmeask-1f349.web.app/) or type "https://letmeask-1f349.web.app" in your browser.
 
@@ -25,8 +23,7 @@ If you want to create a room for your live stream session and receive questions,
 
 If you are watching a live stream and want to make questions, type the room code provided by the streamer and click on join room.
 
----
-How to run this Application
+## How to run this Application
 
 First you need to clone this repo by using the following command:
 ```
